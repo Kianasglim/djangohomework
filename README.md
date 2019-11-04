@@ -1,2 +1,2 @@
-# djangohomework
+
 git init
