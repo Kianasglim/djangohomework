@@ -1,1 +1,1 @@
-git init
+i dont know wth i am doing
